@@ -1,2 +1,0 @@
-# Website
-Webside of Spurkomt
